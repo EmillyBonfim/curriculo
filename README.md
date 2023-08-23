@@ -1,2 +1,2 @@
 # Currículo
-Currículo feito em css
+Currículo feito na aula de português no Google Word e passado para um aqruivo Web. 
